@@ -41,7 +41,7 @@ You must replace <code>VALID_ACCESS_TOKEN</code> with your application's access 
  # TODO add ruby example
 ```
 
-> The above command returns JSON structured like this:
+> The endpoint returns JSON structured like this:
 
 ```json
 {
